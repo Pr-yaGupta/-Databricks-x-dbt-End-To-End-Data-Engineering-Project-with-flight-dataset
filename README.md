@@ -1,0 +1,2 @@
+# -Databricks-x-dbt-End-To-End-Data-Engineering-Project-with-flight-dataset
+Built a big data engineering pipeline using tools like Databricks, dbt and Delta Live Tables with PySpark: ingesting raw data via Autoloader, and modelling it using dimensional design including Slowly Changing Dimensions (SCDs). Also used Unity Catalog for metadata and access control, and scheduled pipelines to deliver analytics-ready datasets.
