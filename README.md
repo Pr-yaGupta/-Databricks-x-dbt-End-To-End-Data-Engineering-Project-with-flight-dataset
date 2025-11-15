@@ -5,3 +5,6 @@ Bronze Layer Incremental Data Ingestion
 
 <img width="990" height="326" alt="image" src="https://github.com/user-attachments/assets/b83f7120-2fd4-4746-a2cb-ac5023e4c8ea" />
 
+Silver Layer Using DLT Pipeline
+
+<img width="716" height="648" alt="image" src="https://github.com/user-attachments/assets/5f865af6-1994-4cf4-bfb9-3b6a6259103d" />
